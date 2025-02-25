@@ -1,0 +1,8 @@
+C:\Users\PERSONAL\Desktop\AztroWepApplication\WebApplication1\obj\Debug\net9.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\PERSONAL\Desktop\AztroWepApplication\WebApplication1\obj\Debug\net9.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERSONAL\Desktop\AztroWepApplication\WebApplication1\obj\Debug\net9.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\PERSONAL\Desktop\AztroWepApplication\WebApplication1\obj\Debug\net9.0\WebApplication1.AssemblyInfo.cs
+C:\Users\PERSONAL\Desktop\AztroWepApplication\WebApplication1\obj\Debug\net9.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Desktop\AztroWepApplication\WebApplication1\obj\Debug\net9.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PERSONAL\Desktop\AztroWepApplication\WebApplication1\obj\Debug\net9.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PERSONAL\Desktop\AztroWepApplication\WebApplication1\obj\Debug\net9.0\WebApplication1.sourcelink.json

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HZ3dYKvZrnM=",
+  "dgSpecHash": "p7cBKakFFFg=",
   "success": true,
   "projectFilePath": "C:\\Users\\PERSONAL\\Desktop\\AztroWepApplication\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
@@ -8,8 +8,10 @@
     "C:\\Users\\PERSONAL\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.2\\microsoft.entityframeworkcore.9.0.2.nupkg.sha512",
     "C:\\Users\\PERSONAL\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.2\\microsoft.entityframeworkcore.abstractions.9.0.2.nupkg.sha512",
     "C:\\Users\\PERSONAL\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.2\\microsoft.entityframeworkcore.analyzers.9.0.2.nupkg.sha512",
+    "C:\\Users\\PERSONAL\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.1\\microsoft.entityframeworkcore.relational.9.0.1.nupkg.sha512",
     "C:\\Users\\PERSONAL\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.2\\microsoft.extensions.caching.abstractions.9.0.2.nupkg.sha512",
     "C:\\Users\\PERSONAL\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.2\\microsoft.extensions.caching.memory.9.0.2.nupkg.sha512",
+    "C:\\Users\\PERSONAL\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.1\\microsoft.extensions.configuration.abstractions.9.0.1.nupkg.sha512",
     "C:\\Users\\PERSONAL\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
     "C:\\Users\\PERSONAL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",
     "C:\\Users\\PERSONAL\\.nuget\\packages\\microsoft.extensions.logging\\9.0.2\\microsoft.extensions.logging.9.0.2.nupkg.sha512",
@@ -17,7 +19,8 @@
     "C:\\Users\\PERSONAL\\.nuget\\packages\\microsoft.extensions.options\\9.0.2\\microsoft.extensions.options.9.0.2.nupkg.sha512",
     "C:\\Users\\PERSONAL\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.2\\microsoft.extensions.primitives.9.0.2.nupkg.sha512",
     "C:\\Users\\PERSONAL\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
-    "C:\\Users\\PERSONAL\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512"
+    "C:\\Users\\PERSONAL\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512",
+    "C:\\Users\\PERSONAL\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\9.0.3\\npgsql.entityframeworkcore.postgresql.9.0.3.nupkg.sha512"
   ],
   "logs": []
 }

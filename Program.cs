@@ -1,4 +1,23 @@
+using WebApplication1.Data;
+using WebApplication1.Repositories;
+using WebApplication1.Services;
+using Microsoft.EntityFrameworkCore;
+//using Npgsql.EntityFrameworkCore.PostgreSQL;
+
 var builder = WebApplication.CreateBuilder(args);
+
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+if (string.IsNullOrEmpty(connectionString))
+{
+    throw new InvalidOperationException("Connection string is null or empty");
+}
+
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseNpgsql(connectionString));
+
+builder.Services.AddScoped<UserRepository>();
+builder.Services.AddScoped<UserService>();
 
 // Add services to the container.
 

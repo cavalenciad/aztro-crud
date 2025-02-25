@@ -9,14 +9,14 @@ namespace WebApplication1.Models
 
         [Required]
         [StringLength(100)]
-        public string Name { get; set; } = string.Empty;
+        public string? Name { get; set; }
 
         [Required]
         [EmailAddress]
-        public string Email { get; set; } = string.Empty;
+        public string? Email { get; set; }
 
         public int Age { get; set; }
 
-        public User(){}
+        public User() {}
     }
 }
